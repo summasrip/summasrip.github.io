@@ -1,0 +1,47 @@
+
+.navbar-brand {
+  text-align: center;
+}
+
+h3 {
+text-align: left;
+}
+
+h4 {
+font-size: 12px;
+}
+
+#home2 {
+  color: black;
+}
+
+.nav-link {
+font-family: Gloria Hallelujah, cursive;
+}
+
+.narvar-brand{
+font-family: Gloria Hallelujah, cursive;
+}
+
+.carousel-inner{
+  align-items: center;
+  border-color: black:
+}
+
+#carousel-menu-control {
+  color: black;
+}
+
+.jumbotron {
+    background-image: url(restaurant11.jpg);
+    background-size: cover;
+}
+h11 {
+  align-items: center;
+  color: black;
+  font-family: Gloria Hallelujah, cursive;
+}
+
+h5 {
+  font-size: 30px;
+}
